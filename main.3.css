@@ -1,0 +1,66 @@
+.header { 
+    display: flex;  
+    padding: 10px 400px 20px; 
+    justify-content: space-between; 
+    background-color: #4F392F;
+    height: 100px; 
+}
+.footer{
+    background-color: #4F392F;
+   }
+   .footer p, h3{
+    color: white;
+   }
+.header h1{
+    text-align: center;
+    padding-left: 30px;
+    color: white;
+}
+.search{
+    padding-top: 20px;
+    padding-left: 300px;
+}
+.navigation ul li a { 
+    text-decoration: none; 
+    color: black; 
+    
+}
+.page3{
+      font-weight: bold;
+   }
+   .golovne{
+        display: flex;
+      }
+.navigation ul li{
+    font-weight: 500; 
+    font-size: 20px;
+}
+.navigation ul{
+    list-style: none;
+}
+.navigation{
+    width: 250px; 
+    height: 40%; 
+    background: #EBEBEB;
+    padding: 5px;
+    padding-right: 20px;
+     border: solid rgb(255,255,255); 
+    float: left;
+}
+
+   .main { 
+    width: 1263px; 
+    padding: 5px; 
+    padding-right: 20px;
+    float: left; 
+    position: relative; 
+    left: 10px; 
+    background-image: url(https://media.istockphoto.com/id/1172206451/es/foto/fondo-abstracto-texturas-de-pared-texturas-de-pared-blanca-para-fondo-fondo-de-pared-blanco.jpg?s=170667a&w=0&k=20&c=4raatPIes1p0TPT0lpVBPKHcMLOULJko7Gng5dlxUgQ=);
+    border: solid rgb(255,255,255); 
+   }
+   
+   .main p{
+    text-align: left;
+    color: black;
+   }
+   
